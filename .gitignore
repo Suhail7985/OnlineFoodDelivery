@@ -1,0 +1,17 @@
+# Node.js
+/node_modules/
+
+# PHP
+/vendor/
+
+# Database
+*.sql
+*.sqlite
+
+# IDEs
+*.idea/
+*.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
