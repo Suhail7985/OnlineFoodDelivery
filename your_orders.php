@@ -245,7 +245,7 @@ only screen and (max-width: 760px),
 												<tr>	
 														 <td data-column="Item"> <?php echo $row['title']; ?></td>
 														  <td data-column="Quantity"> <?php echo $row['quantity']; ?></td>
-														  <td data-column="price">$<?php echo $row['price']; ?></td>
+														  <td data-column="price">₹<?php echo $row['price']; ?></td>
 														   <td data-column="status"> 
 														   <?php 
 																			$status=$row['status'];
@@ -323,7 +323,7 @@ only screen and (max-width: 760px),
                                     <h5>Payment Options</h5>
                                     <ul>
                                         <li>
-                                            <a href="#"> <img src="images/paypal.png" alt="Paypal"> </a>
+                                            <a href="#"> <img src="images/paypal.png" alt="Paytm"> </a>
                                         </li>
                                         <li>
                                             <a href="#"> <img src="images/mastercard.png" alt="Mastercard"> </a>
@@ -341,8 +341,8 @@ only screen and (max-width: 760px),
                                 </div>
                                 <div class="col-xs-12 col-sm-4 address color-gray">
                                     <h5>Address</h5>
-                                    <p>1086 Stockert Hollow Road, Seattle</p>
-                                    <h5>Phone: 75696969855</a></h5> </div>
+                                    <p>Lovely Professional University, Jalandhar - Delhi G.T. Road,Phagwara, Punjab (India) - 144411</p>
+                                    <h5>Phone: 9555635456</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
                                     <h5>Addition informations</h5>
                                    <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
