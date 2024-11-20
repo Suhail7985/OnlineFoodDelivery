@@ -5,8 +5,8 @@
 /vendor/
 
 # Database
-*.sql
-*.sqlite
+
+
 
 # IDEs
 *.idea/
